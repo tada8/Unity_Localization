@@ -55,6 +55,10 @@ namespace TedLab
         {
             base.Awake();
 
+            if(Instance != this){
+                return;
+            }
+
             BuildLocalizationData();
 
             if(overrideSystemLangauge){
