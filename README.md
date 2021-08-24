@@ -1,1 +1,3 @@
-# TedLab_Localization
+# Unityローカライズプラグイン
+Unityでローカライズするためのプラグインです。
+「TedLab_Localization.unitypackage」をインポートしてご利用ください。
